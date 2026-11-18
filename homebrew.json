@@ -1,0 +1,1165 @@
+{
+ "format": "secret-stash-catalog",
+ "version": 1,
+ "titles": {
+  "APOL00004": {
+   "content_id": "IV0000-APOL00004_00-APOLLO0000000PS4",
+   "info": {
+    "name": "Apollo Save Tool",
+    "description": "Save game manager: back up, restore, decrypt and patch saves.",
+    "publisher": "bucanero",
+    "genres": [
+     "Saves and cheats"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/bucanero/apollo-ps4/cb4bda52fad4bf93888658d5dc9925f0f95ae127/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "02.32",
+     "size": 22675456,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/bucanero/apollo-ps4/releases/download/v2.3.2/IV0000-APOL00004_00-APOLLO0000000PS4.pkg"
+       ]
+      }
+     ],
+     "sha256": "2baf876cf5689a2fee96f7a1920ddf2f8713b92adfc6fe0e84f38707cb1e0f17"
+    }
+   ]
+  },
+  "AZIF00001": {
+   "content_id": "IV0000-AZIF00001_00-PS4VIBE000000000",
+   "info": {
+    "name": "PS4 Vibe",
+    "description": "Controller rumble tester.",
+    "publisher": "Al-Azif",
+    "genres": [
+     "Tools"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/Al-Azif/ps4-vibe/ea83cebbe2fa0fff8e5fb315fcdeff31df532bb1/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "1.02",
+     "size": 6619136,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/Al-Azif/ps4-vibe/releases/download/v1.02/IV0000-AZIF00001_00-PS4VIBE000000000.pkg"
+       ]
+      }
+     ],
+     "sha256": "5661b52d9f24bdb752283eda83168e0096985d3200ae3b814b94e785ae9e3a63"
+    }
+   ]
+  },
+  "AZIF00003": {
+   "content_id": "IV0000-AZIF00003_00-PAYLOADGUEST0000",
+   "info": {
+    "name": "Payload Guest",
+    "description": "Pick and run payload (.bin) files stored on the console.",
+    "publisher": "Al-Azif",
+    "genres": [
+     "Tools"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/Al-Azif/ps4-payload-guest/f73b7fc701ff1b91e40369486325b440b5816c9e/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "0.98",
+     "size": 34865152,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/Al-Azif/ps4-payload-guest/releases/download/v0.98/IV0000-AZIF00003_00-PAYLOADGUEST0000.pkg"
+       ]
+      }
+     ],
+     "sha256": "db77ccd143c00d55ced7c6d9cc6990870801e6ab2a89e786249c962fb1376fa4"
+    }
+   ]
+  },
+  "BREW00050": {
+   "content_id": "IV0000-BREW00050_00-IPI0000000000000",
+   "info": {
+    "name": "Internal PKG Installer",
+    "description": "Install PKG files stored on the console's internal drive.",
+    "publisher": "0x199",
+    "genres": [
+     "Tools"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/0x199/ps4-ipi/687fb0ea675994f8bc9f2dc2b0ce1ca82e8092e0/pkg/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "1.00",
+     "size": 6619136,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/0x199/ps4-ipi/releases/download/01.01/IV0000-BREW00050_00-IPI0000000000000.pkg"
+       ]
+      }
+     ],
+     "sha256": "bbed864ce78026df37a9b87f79f15b9f32000f083eeaf25bc3597dde6f6155b3"
+    }
+   ]
+  },
+  "BREW00179": {
+   "content_id": "IV0000-BREW00179_00-LOGMEINHAMACHI00",
+   "info": {
+    "name": "Hamachi (unofficial)",
+    "description": "Unofficial LogMeIn Hamachi VPN client.",
+    "publisher": "sleirsgoevy",
+    "genres": [
+     "Files and network"
+    ],
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "1.00",
+     "size": 7798784,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/sleirsgoevy/ps4-hamachi/releases/download/v0.2.3/IV0000-BREW00179_00-LOGMEINHAMACHI00.pkg"
+       ]
+      }
+     ],
+     "sha256": "a92defba1c1de0e70edffb28f31e6ba6e5d730f3846fe11a4162ee1118849f25"
+    }
+   ]
+  },
+  "BREW00984": {
+   "content_id": "IV0000-BREW00984_00-NP2KAIBOOTSTRAP0",
+   "info": {
+    "name": "NP2kai",
+    "description": "PC-98 emulator; needs your own BIOS files.",
+    "publisher": "EmiiBytee",
+    "genres": [
+     "Emulators"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/EmiiBytee/np2kai-ps4/602bd55ebc439652354e2b8bc5536c7d43b99928/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 9109504,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/EmiiBytee/np2kai-ps4/releases/download/v1.0/IV0000-BREW00984_00-NP2KAIBOOTSTRAP0.pkg"
+       ]
+      }
+     ],
+     "sha256": "78be5832008fee5c3cf2b023a3fc9e029013625a2f04292ff1589263edc03063"
+    }
+   ]
+  },
+  "BREW03085": {
+   "content_id": "IV0000-BREW03085_00-DOLBYTRUEHDDEC00",
+   "info": {
+    "name": "Dolby TrueHD Decoder",
+    "description": "Decodes Dolby TrueHD audio streamed from a PC.",
+    "publisher": "jocover",
+    "genres": [
+     "Media"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/jocover/PS4_DolbyTrueHD_decoder/9989f3428fc7005034ec776c4386d1e7fb234cd3/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "1.01",
+     "size": 6619136,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/jocover/PS4_DolbyTrueHD_decoder/releases/download/v1.0.1/IV0000-BREW03085_00-DOLBYTRUEHDDEC00.pkg"
+       ]
+      }
+     ],
+     "sha256": "adc1f3d41b31d0306359238440d2b0d9bd755e0f93040f205cdb7d820c766c83"
+    }
+   ]
+  },
+  "CHTM00777": {
+   "content_id": "IV0000-CHTM00777_00-PS4CHEATSMANAGER",
+   "info": {
+    "name": "PS4 Cheats Manager",
+    "description": "Download, manage and apply GoldHEN cheats and patches.",
+    "publisher": "bucanero",
+    "genres": [
+     "Saves and cheats"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/bucanero/PS4CheatsManager/248e8f23538b4e57e7ec73ac4bd2eca96f2180b5/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "01.22",
+     "size": 19202048,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/bucanero/PS4CheatsManager/releases/download/v1.2.2/IV0000-CHTM00777_00-PS4CHEATSMANAGER.pkg"
+       ]
+      }
+     ],
+     "sha256": "73f93d0c8343a0c9805768b68402dbba45c87f8bb882584e6aad503d79753b82"
+    }
+   ]
+  },
+  "DVLX00001": {
+   "content_id": "IV0001-DVLX00001_00-DVLX000011050000",
+   "info": {
+    "name": "DevilutionX",
+    "description": "Diablo for modern systems; needs your own DIABDAT.MPQ.",
+    "publisher": "diasurgical",
+    "genres": [
+     "Games and ports"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/diasurgical/DevilutionX/86cd4137c32b513e429ebe2cb67bdaac7c1f244e/Packaging/ps4/sce_sys/icon0.png"
+   },
+   "game": [
+    {
+     "version": "1.5",
+     "size": 14614528,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/diasurgical/DevilutionX/releases/download/1.5.5/devilutionx-ps4.pkg"
+       ]
+      }
+     ],
+     "sha256": "33e5d47f45c594ff071a52987d6be937d0123509a4d67022e20b3d5cb75713be"
+    }
+   ]
+  },
+  "DXME00001": {
+   "content_id": "IV0001-DXME00001_00-DXME000011040000",
+   "info": {
+    "name": "DevilutionX: Middle-earth Mod",
+    "description": "Middle-earth mod for DevilutionX; needs your own DIABDAT.MPQ.",
+    "publisher": "DakkJaniels",
+    "genres": [
+     "Games and ports"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/DakkJaniels/DevilutionX-MiddleEarthMod/aac82a9c183203c1eb5dbb337f4fe281e30bb9a4/Packaging/ps4/sce_sys/icon0.png"
+   },
+   "game": [
+    {
+     "version": "1.4",
+     "size": 17760256,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/DakkJaniels/DevilutionX-MiddleEarthMod/releases/download/1.4.3/middleearthmod_PS4.pkg"
+       ]
+      }
+     ],
+     "sha256": "1e55da99865f90f53eda2a5cc63593549651ed5d38b75acc4d5952fc6b44b495"
+    }
+   ]
+  },
+  "FALL20002": {
+   "content_id": "IV0001-FALL20002_00-FALL200020100000",
+   "info": {
+    "name": "Fallout 2 Community Edition",
+    "description": "Fallout 2 engine; needs your own Fallout 2 data.",
+    "publisher": "jaca772",
+    "genres": [
+     "Games and ports"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/jaca772/fallout2-ce-ps4/d890a5a8e8b2448c55721deac98851cc1f6691d7/overlay/os/ps4/sce_sys/icon0.png"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 8323072,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/jaca772/fallout2-ce-ps4/releases/download/build-12/IV0001-FALL20002_00-FALL200020100000.pkg"
+       ]
+      }
+     ],
+     "sha256": "e90ea5c2d071d8250025a2b59a37b766c1e6b60f31a37f4cb84b73ac31ea91f5"
+    }
+   ]
+  },
+  "FTPC00001": {
+   "content_id": "IV0001-FTPC00001_00-FTPC000010100800",
+   "info": {
+    "name": "PS4 FTP Client",
+    "description": "Copy files from FTP servers.",
+    "publisher": "cy33hc",
+    "genres": [
+     "Files and network"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/cy33hc/ps4-ftp-client/5c5bf0ee2fb8afe045685e6237a5fa5697e8a354/data/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "01.08",
+     "size": 30801920,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/cy33hc/ps4-ftp-client/releases/download/1.0.8/ps4_ftp_client.pkg"
+       ]
+      }
+     ],
+     "sha256": "586abf9eacc98ec6fd59e186d98fc6aab1255eb046875e9e5763ca16917d0599"
+    }
+   ]
+  },
+  "GOLD00777": {
+   "content_id": "IV0000-GOLD00777_00-GOLDCHEATS000PS4",
+   "info": {
+    "name": "GoldHEN Cheats Manager",
+    "description": "The GoldHEN team's cheat manager.",
+    "publisher": "GoldHEN",
+    "genres": [
+     "Saves and cheats"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/GoldHEN/GoldHEN_Cheat_Manager/20b258b6773508eee8c1507518e5c718a57dd675/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "01.14",
+     "size": 17563648,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/GoldHEN/GoldHEN_Cheat_Manager/releases/download/v1.1.4/IV0000-GOLD00777_00-GOLDCHEATS000PS4.pkg"
+       ]
+      }
+     ],
+     "sha256": "397b41099604f538addc539a042f70af32962e699a4fe37e72c1a0b69deb9779"
+    }
+   ]
+  },
+  "KPBR01111": {
+   "content_id": "IV0000-KPBR01111_00-AAAAAAAAAAAAAAAA",
+   "info": {
+    "name": "Remote Package Installer",
+    "description": "Install PKG files sent from a PC or phone over the network.",
+    "publisher": "Backporter",
+    "genres": [
+     "Tools"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/Backporter/ps4_remote_pkg_installer-OOSDK/0bafa5f4bb2b5c77307a83cc62580ce1e8d74e05/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 6619136,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/Backporter/ps4_remote_pkg_installer-OOSDK/releases/download/1.0/IV0000-KPBR01111_00-AAAAAAAAAAAAAAAA.pkg"
+       ]
+      }
+     ],
+     "sha256": "d9584c0facf048793f66c1e4d2c6e74e7591cf244ecf9477262aec23692b4738"
+    }
+   ]
+  },
+  "MLNT00001": {
+   "content_id": "IV0000-MLNT00001_00-MOONLIGHTPS40000",
+   "info": {
+    "name": "Moonlight PS4",
+    "description": "Moonlight game streaming client for your PC.",
+    "publisher": "JaimeJimenezG",
+    "genres": [
+     "Media"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/JaimeJimenezG/Moonlight-ps4/61427a214d4e632ee246816a98ee4f2374844a73/pkg/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "1.1.0",
+     "size": 6619136,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/JaimeJimenezG/Moonlight-ps4/releases/download/v1.1.0/Moonlight-1.1.0.pkg"
+       ]
+      }
+     ],
+     "sha256": "9019c275e303891b927a38be333e1341810cd915d257d86d6e4b239031b61c2d"
+    }
+   ]
+  },
+  "NPXS39041": {
+   "content_id": "IV0002-NPXS39041_00-STOREUPD00000000",
+   "info": {
+    "name": "Homebrew Store",
+    "description": "Browse and install homebrew apps.",
+    "publisher": "LightningMods",
+    "genres": [
+     "Tools"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/LightningMods/PS4-Store/4d08c6e6a3d54d6f35a38a830f4ec8b045ed6c43/App%20Media-Assets/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 24772608,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/LightningMods/PS4-Store/releases/download/4.5/Store-R2.pkg"
+       ]
+      }
+     ],
+     "sha256": "7eab6de7d8542e0ce9b00656b42932ae7dd3d682d0008625ebd082fc996f32bc"
+    }
+   ]
+  },
+  "NTXS10053": {
+   "content_id": "IV0001-NTXS10053_00-NTXS100531010000",
+   "info": {
+    "name": "Scratch Everywhere!",
+    "description": "Play Scratch projects.",
+    "publisher": "ScratchEverywhere",
+    "genres": [
+     "Games and ports"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/ScratchEverywhere/ScratchEverywhere/cae96fd867345d9fb03a5630d7a46964abb9abcf/gfx/ps4/icon0.png"
+   },
+   "game": [
+    {
+     "version": "1.1",
+     "size": 24182784,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/ScratchEverywhere/ScratchEverywhere/releases/download/1.1/scratch-ps4.pkg"
+       ]
+      }
+     ],
+     "sha256": "735b9c3519f3a5da5f357dff46b6217fb5f19419b2c1815844b52442af7563c1"
+    }
+   ]
+  },
+  "OFTP00000": {
+   "content_id": "IV0000-OFTP00000_00-FTPINSTALLR00000",
+   "info": {
+    "name": "Orbis FTP",
+    "description": "FTP server that keeps running in the background.",
+    "publisher": "OSM-Made",
+    "genres": [
+     "Files and network"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/OSM-Made/OrbisFTP/35b14a4819994882251ac008f0581e2c7490ac1b/pkg/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "1.00",
+     "size": 8978432,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/OSM-Made/OrbisFTP/releases/download/1.0/IV0000-OFTP00000_00-FTPINSTALLR00000.pkg"
+       ]
+      }
+     ],
+     "sha256": "85ba2fdac032d91faa07973fdcfdfe63b6a71bf01d1ea4d97dce7e2469fc21be"
+    }
+   ]
+  },
+  "PAPT00260": {
+   "content_id": "IV0000-PAPT00260_00-PSAAPTPKG0000000",
+   "info": {
+    "name": "4PT",
+    "description": "Download homebrew from community package repositories.",
+    "publisher": "victorrjimenezz",
+    "genres": [
+     "Tools"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/victorrjimenezz/PS4-4PT/0d6410e3615b4decc8e81d54eeeadf35e514dd36/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "2.6",
+     "size": 12255232,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/victorrjimenezz/PS4-4PT/releases/download/v2.60/IV0000-PAPT00260_00-PSAAPTPKG0000000.pkg"
+       ]
+      }
+     ],
+     "sha256": "c18b21075ec8957a50c5f592e5db0efe881e2d66d61d7a7de4c4673d9843c585"
+    }
+   ]
+  },
+  "PFBN00001": {
+   "content_id": "IV0001-PFBN00001_00-PFBN000017020000",
+   "info": {
+    "name": "pFBN",
+    "description": "Arcade emulator based on FinalBurn Neo.",
+    "publisher": "Cpasjuste",
+    "genres": [
+     "Emulators"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/Cpasjuste/pemu/eeb5199ee0657b87f65197cbb043e5014befffbd/src/cores/pfbneo/data/ps4/romfs/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "7.2",
+     "size": 108986368,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/Cpasjuste/pemu/releases/download/v7.2/IV0001-PFBN00001_00-PFBN000017020000.pkg"
+       ]
+      }
+     ],
+     "sha256": "94a2c8db68d8e3688a0b89ec901096481701aaea67b74802728dccb98dc13e1c"
+    }
+   ]
+  },
+  "PGBA00001": {
+   "content_id": "IV0001-PGBA00001_00-PGBA000017020000",
+   "info": {
+    "name": "pGBA",
+    "description": "Game Boy Advance emulator.",
+    "publisher": "Cpasjuste",
+    "genres": [
+     "Emulators"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/Cpasjuste/pemu/eeb5199ee0657b87f65197cbb043e5014befffbd/src/cores/pgba/data/ps4/romfs/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "7.2",
+     "size": 35979264,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/Cpasjuste/pemu/releases/download/v7.2/IV0001-PGBA00001_00-PGBA000017020000.pkg"
+       ]
+      }
+     ],
+     "sha256": "df3d9055765a1dffb99e7fa249da38ed72d9c951280123bc508b23d0a33aa2ec"
+    }
+   ]
+  },
+  "PGEN00001": {
+   "content_id": "IV0001-PGEN00001_00-PGEN000017020000",
+   "info": {
+    "name": "pGEN",
+    "description": "Mega Drive and Genesis emulator based on Genesis Plus GX.",
+    "publisher": "Cpasjuste",
+    "genres": [
+     "Emulators"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/Cpasjuste/pemu/eeb5199ee0657b87f65197cbb043e5014befffbd/src/cores/pgen/data/ps4/romfs/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "7.2",
+     "size": 43581440,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/Cpasjuste/pemu/releases/download/v7.2/IV0001-PGEN00001_00-PGEN000017020000.pkg"
+       ]
+      }
+     ],
+     "sha256": "037d458c83a0a69ca5abecc3455df29a807039291181c48c5d9bba5d3fedb0a7"
+    }
+   ]
+  },
+  "PKGM40924": {
+   "content_id": "IV0000-PKGM40924_00-MERGEFILES000000",
+   "info": {
+    "name": "PKG Merger",
+    "description": "Join split PKG files on the console.",
+    "publisher": "VityaSchel",
+    "genres": [
+     "Tools"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/VityaSchel/ps4-app-merge-pkgs/9878e18b6def72b0e5695e4fe25280e1991b9588/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "1.00",
+     "size": 6619136,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/VityaSchel/ps4-app-merge-pkgs/releases/download/v1.0.2/IV0000-PKGM40924_00-MERGEFILES000000.pkg"
+       ]
+      }
+     ],
+     "sha256": "09299f52865ba724daee416e883b13701ea916fd9ea257792c7c487124b82f7d"
+    }
+   ]
+  },
+  "PNES00001": {
+   "content_id": "IV0001-PNES00001_00-PNES000017020000",
+   "info": {
+    "name": "pNES",
+    "description": "NES emulator based on Nestopia.",
+    "publisher": "Cpasjuste",
+    "genres": [
+     "Emulators"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/Cpasjuste/pemu/eeb5199ee0657b87f65197cbb043e5014befffbd/src/cores/pnes/data/ps4/romfs/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "7.2",
+     "size": 37748736,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/Cpasjuste/pemu/releases/download/v7.2/IV0001-PNES00001_00-PNES000017020000.pkg"
+       ]
+      }
+     ],
+     "sha256": "b09074bb154b91ffc9c01f64dc20899286829bb880c27ae6ee0b009804b4fd56"
+    }
+   ]
+  },
+  "PSNE00001": {
+   "content_id": "IV0001-PSNE00001_00-PSNE000017020000",
+   "info": {
+    "name": "pSNES",
+    "description": "SNES emulator based on Snes9x.",
+    "publisher": "Cpasjuste",
+    "genres": [
+     "Emulators"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/Cpasjuste/pemu/eeb5199ee0657b87f65197cbb043e5014befffbd/src/cores/psnes/data/ps4/romfs/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "7.2",
+     "size": 37814272,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/Cpasjuste/pemu/releases/download/v7.2/IV0001-PSNE00001_00-PSNE000017020000.pkg"
+       ]
+      }
+     ],
+     "sha256": "55e3544a4f30f1cb49b8514771b6a173f0a3c852fb7155cda4751c60e228210b"
+    }
+   ]
+  },
+  "QUAK03000": {
+   "content_id": "IV0000-QUAK03000_00-IOQ3PS4PORT00000",
+   "info": {
+    "name": "ioquake3",
+    "description": "Quake III Arena engine; needs your own game data.",
+    "publisher": "Mayo1970",
+    "genres": [
+     "Games and ports"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/Mayo1970/ioQuake3-PS4/d4c7912af73c3b0eaa57195391ad76f21e79a910/icons/q3/icon0.png"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 13762560,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/Mayo1970/ioQuake3-PS4/releases/download/1.8/IV0000-QUAK03000_00-IOQ3PS4PORT00000.pkg"
+       ]
+      }
+     ],
+     "sha256": "4f609f1dab826f558fa99d7389c2d9d48ef3c0a28e9c2aec926835b44fce2cc4"
+    }
+   ]
+  },
+  "QUAK03001": {
+   "content_id": "IV0000-QUAK03001_00-IOQ3PS4PORT00000",
+   "info": {
+    "name": "Quake III: Team Arena",
+    "description": "Team Arena on ioquake3; needs your own game data.",
+    "publisher": "Mayo1970",
+    "genres": [
+     "Games and ports"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/Mayo1970/ioQuake3-PS4/d4c7912af73c3b0eaa57195391ad76f21e79a910/icons/ta/icon0.png"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 13762560,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/Mayo1970/ioQuake3-PS4/releases/download/1.8/IV0000-QUAK03001_00-IOQ3PS4PORT00000.pkg"
+       ]
+      }
+     ],
+     "sha256": "3c1823e5ba2003d25166aaa75868ec68e5a83684fc18b8a31c5f5c52025058af"
+    }
+   ]
+  },
+  "QUAK03002": {
+   "content_id": "IV0000-QUAK03002_00-IOQ3PS4PORT00000",
+   "info": {
+    "name": "OpenArena",
+    "description": "OpenArena on ioquake3; needs the free OpenArena game data.",
+    "publisher": "Mayo1970",
+    "genres": [
+     "Tools"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/Mayo1970/ioQuake3-PS4/d4c7912af73c3b0eaa57195391ad76f21e79a910/icons/oa/icon0.png"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 13762560,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/Mayo1970/ioQuake3-PS4/releases/download/1.8/IV0000-QUAK03002_00-IOQ3PS4PORT00000.pkg"
+       ]
+      }
+     ],
+     "sha256": "5ffe1e0c70ab455a693db4af6ac6960e2a2ec430519ea09571bf4e6e09f1d3f0"
+    }
+   ]
+  },
+  "QUAK03003": {
+   "content_id": "IV0000-QUAK03003_00-IOQ3PS4PORT00000",
+   "info": {
+    "name": "Quake III Classic",
+    "description": "Quake III Arena with its original pak files; needs your own game data.",
+    "publisher": "Mayo1970",
+    "genres": [
+     "Games and ports"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/Mayo1970/ioQuake3-PS4/d4c7912af73c3b0eaa57195391ad76f21e79a910/icons/qc/icon0.png"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 13107200,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/Mayo1970/ioQuake3-PS4/releases/download/1.8/IV0000-QUAK03003_00-IOQ3PS4PORT00000.pkg"
+       ]
+      }
+     ],
+     "sha256": "53a6a447346e88e22684e523193574606374ab247896a127d54188b5c5ba6d57"
+    }
+   ]
+  },
+  "QUAK03004": {
+   "content_id": "IV0000-QUAK03004_00-IOQ3PS4PORT00000",
+   "info": {
+    "name": "Star Trek Voyager: Elite Force",
+    "description": "Elite Force on ioquake3; needs your own game data.",
+    "publisher": "Mayo1970",
+    "genres": [
+     "Games and ports"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/Mayo1970/ioQuake3-PS4/d4c7912af73c3b0eaa57195391ad76f21e79a910/icons/ef/icon0.png"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 13762560,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/Mayo1970/ioQuake3-PS4/releases/download/1.8/IV0000-QUAK03004_00-IOQ3PS4PORT00000.pkg"
+       ]
+      }
+     ],
+     "sha256": "8e77da8680aa6f51e9676d526291cd127f4f2eea441a527cb9e1ed120ca542c8"
+    }
+   ]
+  },
+  "RMTC00001": {
+   "content_id": "IV0001-RMTC00001_00-RMTC000010200600",
+   "info": {
+    "name": "ezRemote Client",
+    "description": "File manager for FTP, SMB, WebDAV and HTTP servers.",
+    "publisher": "cy33hc",
+    "genres": [
+     "Files and network"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/cy33hc/ps4-ezremote-client/57dc8f8c620fc81b48192f6742ca56333c8acba3/data/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "02.06",
+     "size": 52756480,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/cy33hc/ps4-ezremote-client/releases/download/2.06/ezremote_client.pkg"
+       ]
+      }
+     ],
+     "sha256": "e09a84d193fdefd4e23378b089a0bbe76a51042bf2bd6f8d417716d6262f42f8"
+    }
+   ]
+  },
+  "SFIN00000": {
+   "content_id": "IV0001-SFIN00000_00-SFIN000000009400",
+   "info": {
+    "name": "Switchfin",
+    "description": "Third-party Jellyfin client for your media server.",
+    "publisher": "dragonflylee",
+    "genres": [
+     "Media"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/dragonflylee/switchfin/9eb5403512d178d637fbdd659c46b9c19716d6db/app/platform/ps4/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "00.94",
+     "size": 58458112,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/dragonflylee/switchfin/releases/download/0.9.4/IV0001-SFIN00000_00-SFIN000000009400.pkg"
+       ]
+      }
+     ],
+     "sha256": "2d0dac54eaec7cf9b86a7a169cb9b88409327fc10bff8c10ea42357d4ba3661c"
+    }
+   ]
+  },
+  "SMBC00001": {
+   "content_id": "IV0001-SMBC00001_00-SMBC000010101000",
+   "info": {
+    "name": "PS4 SMB Client",
+    "description": "Copy files from SMB network shares.",
+    "publisher": "cy33hc",
+    "genres": [
+     "Files and network"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/cy33hc/ps4-smb-client/bfda706b2f751e37f7c4efc2eb4dfcc3472c6c10/data/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "01.10",
+     "size": 30998528,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/cy33hc/ps4-smb-client/releases/download/1.10/ps4_smb_client.pkg"
+       ]
+      }
+     ],
+     "sha256": "510e14ea92d9db44523001d71bb4170b18bb58e2ec41f6d2084e1202b9c4ba23"
+    }
+   ]
+  },
+  "SOHP00001": {
+   "content_id": "IV0000-SOHP00001_00-SHIPOFHARKINIAN0",
+   "info": {
+    "name": "Ship of Harkinian",
+    "description": "Ocarina of Time PC port; needs your own ROM.",
+    "publisher": "alechurri",
+    "genres": [
+     "Games and ports"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/alechurri/shipofharkinian-ps4/4fb25326ad78645848528eae002ab5dfa8817ffd/pkg-static/sce_sys/icon0.png"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 46596096,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/alechurri/shipofharkinian-ps4/releases/download/v0.2.0/IV0000-SOHP00001_00-SHIPOFHARKINIAN0.pkg"
+       ]
+      }
+     ],
+     "sha256": "e7baa45b1cb55656c69ef0271d45e8bf1b80fb2f02e2fbb2b6f02466981253cf"
+    }
+   ]
+  },
+  "THSP00006": {
+   "content_id": "IV0001-THSP00006_00-THSP000060100000",
+   "info": {
+    "name": "Touhou 6: The Embodiment of Scarlet Devil",
+    "description": "Native port of a community decompilation; needs your own game files.",
+    "publisher": "EmiiBytee",
+    "genres": [
+     "Games and ports"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/EmiiBytee/Touhou-PS4/51880cdec2ecce2f4ec4ad4bc54304eeed2c1296/ps4/th06/pkg/sce_sys/icon0.png"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 9109504,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/EmiiBytee/Touhou-PS4/releases/download/v1.1.0/TH06.ps4-thin.pkg"
+       ]
+      }
+     ],
+     "sha256": "ea581b2292c08b8d1e0c2abe2400bb3fa6d02f2a73cdc66637c13f5792cb2563"
+    }
+   ]
+  },
+  "THSP00007": {
+   "content_id": "IV0001-THSP00007_00-THSP000070100000",
+   "info": {
+    "name": "Touhou 7: Perfect Cherry Blossom",
+    "description": "Native port of a community decompilation; needs your own game files.",
+    "publisher": "EmiiBytee",
+    "genres": [
+     "Games and ports"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/EmiiBytee/Touhou-PS4/51880cdec2ecce2f4ec4ad4bc54304eeed2c1296/ps4/th07/pkg/sce_sys/icon0.png"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 9830400,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/EmiiBytee/Touhou-PS4/releases/download/v1.1.0/TH07.ps4-thin.pkg"
+       ]
+      }
+     ],
+     "sha256": "734762d158f6bafe22ea77c936dd7551460ebad5616b176f06e2d469f259d2fb"
+    }
+   ]
+  },
+  "THSP00008": {
+   "content_id": "IV0001-THSP00008_00-THSP000080100000",
+   "info": {
+    "name": "Touhou 8: Imperishable Night",
+    "description": "Native port of a community decompilation; needs your own game files.",
+    "publisher": "EmiiBytee",
+    "genres": [
+     "Games and ports"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/EmiiBytee/Touhou-PS4/51880cdec2ecce2f4ec4ad4bc54304eeed2c1296/ps4/th08/pkg/sce_sys/icon0.png"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 9437184,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/EmiiBytee/Touhou-PS4/releases/download/v1.1.0/TH08.ps4-thin.pkg"
+       ]
+      }
+     ],
+     "sha256": "a1a7c1b0a9ec4dff3a31fb4df9d1853fa8346dc7da13391196b8456eff3f2acc"
+    }
+   ]
+  },
+  "WDVC00001": {
+   "content_id": "IV0001-WDVC00001_00-WDVC000010100400",
+   "info": {
+    "name": "PS4 WebDAV Client",
+    "description": "Copy files from WebDAV servers.",
+    "publisher": "cy33hc",
+    "genres": [
+     "Files and network"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/cy33hc/ps4-webdav-client/578acd57c2114ce14589b27c068b819c84d9411b/data/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "01.04",
+     "size": 36044800,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/cy33hc/ps4-webdav-client/releases/download/1.04/ps4_webdav_client.pkg"
+       ]
+      }
+     ],
+     "sha256": "518182353dc6fe609bc6fc76432d13a2d7d34baa9bb839be846cdf7e058964c8"
+    }
+   ]
+  },
+  "WILI00000": {
+   "content_id": "IV0001-WILI00000_00-WILI000000106000",
+   "info": {
+    "name": "wiliwili",
+    "description": "Third-party Bilibili video client.",
+    "publisher": "xfangfang",
+    "genres": [
+     "Media"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/xfangfang/wiliwili/88e5876bea9502d06f46a8656e3530684d3aaf7d/scripts/ps4/sce_sys/icon0.png",
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "01.60",
+     "size": 74711040,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/xfangfang/wiliwili/releases/download/v1.6.0/wiliwili-PS4.pkg"
+       ]
+      }
+     ],
+     "sha256": "d9f089bed9d8352ea6f78d6e93fcb5eea22caad29768ff553d87adb0e79bffba"
+    }
+   ]
+  },
+  "WOWE00001": {
+   "content_id": "IV0000-WOWE00001_00-WOWEEPS4CLIENT00",
+   "info": {
+    "name": "WoWPS",
+    "description": "World of Warcraft 3.3.5a client; needs your own game data.",
+    "publisher": "01cedric",
+    "genres": [
+     "Games and ports"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/01cedric/WoWPS/7649815066dd4d008107c691cbde758b8a29d8bf/ps4/sce_sys/icon0.png"
+   },
+   "game": [
+    {
+     "version": "02.12",
+     "size": 89587712,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/01cedric/WoWPS/releases/download/2.12/WoWPS-2.12-PS4.pkg"
+       ]
+      }
+     ],
+     "sha256": "220f65e8951c957bc09795c0f8c65c796dceb895ae03bcb22e44ae202f1c0259"
+    }
+   ]
+  },
+  "XDPX20004": {
+   "content_id": "ED1633-XDPX20004_00-0000000000000000",
+   "info": {
+    "name": "PS4 Tools",
+    "description": "System info, USB PKG installs, save and trophy tools; tested up to firmware 9.00.",
+    "publisher": "xXxTheDarkprogramerxXx",
+    "genres": [
+     "Saves and cheats"
+    ],
+    "type": "app"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 238485504,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/xXxTheDarkprogramerxXx/PS4_Tools/releases/download/HB_V1.33/ED1633-XDPX20004_00-0000000000000000-A0100-V0133.pkg"
+       ]
+      }
+     ],
+     "sha256": "6c959ccbe3a70e172d8de1fff82d3fc3fe14da859656b31516e9a0f322dca1f5"
+    }
+   ]
+  },
+  "XEMO00420": {
+   "content_id": "IV0000-XEMO00420_00-SPACECADET000000",
+   "info": {
+    "name": "3D Pinball Space Cadet",
+    "description": "Classic pinball table; needs your own copy of the game files.",
+    "publisher": "OnlyMoisties",
+    "genres": [
+     "Games and ports"
+    ],
+    "cover_url": "https://raw.githubusercontent.com/OnlyMoisties/3D-Pinball-Space-Cadet/dccf98114857f6d8159860c11051b37a5d80e502/sce_sys/icon0.png"
+   },
+   "game": [
+    {
+     "version": "01.00",
+     "size": 4784128,
+     "sources": [
+      {
+       "access": "direct",
+       "urls": [
+        "https://github.com/OnlyMoisties/3D-Pinball-Space-Cadet/releases/download/release/IV0000-XEMO00420_00-SPACECADET000000.pkg"
+       ]
+      }
+     ],
+     "sha256": "06d31f78046b4678215f940c1587aa70d7cb18a298ded611dbeac5ac4ff1a298"
+    }
+   ]
+  }
+ }
+}
